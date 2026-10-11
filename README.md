@@ -1,12 +1,11 @@
 # Agent Lab
 
-Experiments around AI agents and agent payments, moved here from `shlomDev/agent100` (which is now only *Agent 100*, specific agents for Israelis).
+General (non-Israeli) experiments around AI agents, moved here from `shlomDev/agent100`. Israeli agents, including Verified IL (agent #26), live in [Agent 100](https://github.com/shlomDev/agent100).
 
 | Folder | What | Status |
 |---|---|---|
 | [`agent/`](agent/), [`data/`](data/), [`index.html`](index.html) | **Agent $100**: one AI agent doing real jobs against a $100 paper wallet, with a live dashboard | **Paused.** The workflow has no schedule; nothing runs unless you press *Run workflow* |
 | [`template/`](template/) | Reusable live-dashboard template: trading, agent and Zuzei presets | Ready |
-| [`verified-il/`](verified-il/) | Israeli rules for AI agents as signed facts, calculations and checks, sold per call over x402 | Payments off; rules await lawyer review |
 
 ---
 
